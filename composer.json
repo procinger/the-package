@@ -1,7 +1,7 @@
 {
     "name": "procinger/the-package",
     "description": "super fanc ypackage",
-    "version": "0.0.1",
+    "version": "v0.0.2",
     "type": "library",
     "keywords": ["super", "fancy"],
     "authors": [
