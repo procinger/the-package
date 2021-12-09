@@ -1,0 +1,13 @@
+{
+    "name": "procinger/the-package",
+    "description": "super fanc ypackage",
+    "version": "0.0.1",
+    "type": "library",
+    "keywords": ["super", "fancy"],
+    "authors": [
+        {
+            "name": "John Doe",
+            "email": "some@mail.com"
+        }
+    ]
+}
